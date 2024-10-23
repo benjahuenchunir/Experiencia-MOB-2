@@ -1,5 +1,5 @@
 import { SafeAreaView, StyleSheet } from 'react-native';
-import HabitCard from './components/HabitCard';
+import HabitCard from './components/HabitCard'; // Importa el componente HabitCard
 
 export default function App() {
     return (
